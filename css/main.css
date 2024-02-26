@@ -12,3 +12,6 @@
 @import "module/local.css";
 @import "layout/_section_servlocal.css";
 @import "layout/footer.css";
+
+body {
+  background-color: red;
