@@ -4,7 +4,7 @@
 }
 
 @media (max-width: 600px) {
-    .section_servlocal {
+    .sectionservlocal {
          flex-direction: column;
  }
     }
