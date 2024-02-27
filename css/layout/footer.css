@@ -6,7 +6,6 @@ footer{
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    margin-top: 300px;
 }
 footer  div{
     font-family: var(----font-noto-sans);
