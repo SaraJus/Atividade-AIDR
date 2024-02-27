@@ -51,13 +51,8 @@
     
 }
 .text-end{
-    margin: 250px;
-    padding: 0%;
-    margin-left: 350px;
     font-size: 20px;
     font-weight: 300;
     font-family: var(----font-noto-sans);
-    color: black;
-    position: absolute;
-    
+    color: black;    
 }
