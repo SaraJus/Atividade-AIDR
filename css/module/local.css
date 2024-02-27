@@ -1,9 +1,9 @@
-._section_servlocal {
+.sectionservlocal {
     display: flex;
     flex-direction: column;
 }
 
-.serv_local {
+.servlocal {
     background-color: black;
     display: flex;
     gap: 2rem;
